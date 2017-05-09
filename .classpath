@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/study/eclipse/jar/libglpk-java-1.8.0/swig/.libs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/ansj_seg-5.0.2-all-in-one.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/args4j-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/glpk-java.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/ik-analyzer-solr5-5.x.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="/study/eclipse/jar/weka.jar" sourcepath="/study/eclipse/jar/weka-src.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
